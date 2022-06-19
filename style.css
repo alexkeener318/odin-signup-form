@@ -3,6 +3,7 @@ body{
     display: flex;
     margin: 0px;
 }
+
 .left {
     background-image: url(img/fern.avif);
     position: relative;
@@ -13,7 +14,6 @@ body{
 
 #logo {
    height: 90%;
-   border: 0px;
 }
 
 .banner {
